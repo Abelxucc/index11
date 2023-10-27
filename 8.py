@@ -14,3 +14,4 @@ map[number_index][letter_index]= "X"
 # Write your code above this row 👆
 # 🚨 Don't change the code below 👇
 print(f"{line1}\n{line2}\n{line3}")
+print("1")
